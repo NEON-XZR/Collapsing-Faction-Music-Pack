@@ -1,6 +1,6 @@
 
 <p align="center">
-<img align="center" width="300" height="300" src="https://github.com/NEON-XZR/Collapsing-Faction-Music-Pack/blob/main/icon.png">
+<img align="center" src="https://github.com/NEON-XZR/Collapsing-Faction-Music-Pack/blob/main/Img/logo.png">
 </p>
 <h1>Collapsing Faction Music Pack</h1>
 
